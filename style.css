@@ -11,9 +11,9 @@ h1 {
 .topbar {
     font-size: 1.5em;
 }
-.content > a {
-color:blue;
-}
 .content a {
-color:red;
+    color:red;
+}
+.content > a {
+    color:blue;
 }
