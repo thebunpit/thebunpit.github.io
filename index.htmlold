@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head> <!--metadata, google-->
+        <title>My First HTML Page</title>
+        <link href="style.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <div class="topbar" id="main">
+            <h1>My First HTML Page</h1>
+            <h2> Let's make a table of contents...</h2>
+        </div>
+        <div class="topbar">
+            <video preload="auto" autoplay="true" loop="loop" muted="muted"
+            volume="0">
+                <source src="" type="videp/mp4"/>
+                Video not supported
+            </video>
+            <ol>
+                <li>Ch 1</li>
+                <li>Ch 2</li>
+                <li>Ch 3</li>
+            </ol>
+            <ul>
+                <li>Bullet 1</li>
+                <li>Bullet 2</li>
+                <li>Bullet 3</li>
+            </ul>
+        </div>
+        <div class="content">
+            <p>This is a basic sentence</p>
+                <a href="www.google.com" target="_blank">link</a>
+                <a href="">This shoud be blue</a>
+            <img />
+            <div>
+                <a href ="">This should be red</a>
+            </div>
+        </div>
+    </body>
+</html>
